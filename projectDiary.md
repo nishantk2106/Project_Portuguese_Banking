@@ -34,4 +34,4 @@
     Alex     - SAS
     Jyothi   - R
     Luke     - SAS
-    Nishant  - 
+    Nishant  - python
